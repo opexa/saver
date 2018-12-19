@@ -1,0 +1,16 @@
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\Saver.Data.dll.config
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\Saver.Data.dll
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\Saver.Data.pdb
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\EntityFramework.dll
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\EntityFramework.xml
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nikok\Desktop\Saver\Saver.Data\obj\Debug\Saver.Data.dll
+C:\Users\nikok\Desktop\Saver\Saver.Data\obj\Debug\Saver.Data.pdb
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\Saver.Models.dll
+C:\Users\nikok\Desktop\Saver\Saver.Data\bin\Debug\Saver.Models.pdb
+C:\Users\nikok\Desktop\Saver\Saver.Data\obj\Debug\Saver.Data.csprojResolveAssemblyReference.cache

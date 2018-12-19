@@ -1,0 +1,60 @@
+.form-error {
+  color: #d9534f;
+}
+
+/* GOALS CONFIGURATION PAGE */
+.savings-strategy {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.savings-strategy .plan-list {
+  list-style-type: none;
+  padding: 5px;
+}
+
+/* PROFILE INDEX PAGE */
+.profile-info .card-header .btn {
+  opacity: 0;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.profile-info .card-header:hover .btn {
+  opacity: 1;
+}
+
+/* PROGRESS INDEX PAGE */
+.progress-container {
+  box-shadow: 0px 0px 9px 3px rgba(36, 36, 36, 0.1);
+  padding: 25px 20px 20px;
+}
+
+.current-balance {
+  margin-top: 10px;
+}
+
+.limits .progress{
+  margin-top: 3px;
+  height: 24px;
+}
+
+.limits .row {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+.limits .day-limit {
+  margin-bottom: 35px;
+}
+
+.limits .day-limit .text-center {
+  font-size: 2em;
+  margin-bottom: 16px;
+}
+
+.limits .day-limit .day-limit-text {
+  color: white;
+  padding: 7px 18px;
+  border-radius: 22px;
+}

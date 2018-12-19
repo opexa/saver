@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saver.Models", "Saver.Models\Saver.Models.csproj", "{B08F386C-BB71-423C-A3F1-BB0610A40A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saver.Data", "Saver.Data\Saver.Data.csproj", "{19AA2E36-8C05-4731-9B8D-B2531091BD98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saver.Services", "Saver.Services\Saver.Services.csproj", "{20A94347-5566-49EF-BDBB-5DD24D645054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08F386C-BB71-423C-A3F1-BB0610A40A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08F386C-BB71-423C-A3F1-BB0610A40A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08F386C-BB71-423C-A3F1-BB0610A40A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08F386C-BB71-423C-A3F1-BB0610A40A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AA2E36-8C05-4731-9B8D-B2531091BD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AA2E36-8C05-4731-9B8D-B2531091BD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AA2E36-8C05-4731-9B8D-B2531091BD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AA2E36-8C05-4731-9B8D-B2531091BD98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A94347-5566-49EF-BDBB-5DD24D645054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A94347-5566-49EF-BDBB-5DD24D645054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A94347-5566-49EF-BDBB-5DD24D645054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A94347-5566-49EF-BDBB-5DD24D645054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
